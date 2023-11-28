@@ -1,0 +1,4 @@
+__pycache__
+.ideal
+venv
+sample-database.db
